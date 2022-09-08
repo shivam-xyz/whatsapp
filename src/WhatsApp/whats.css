@@ -1,0 +1,9 @@
+.chat{
+    /* border:1px solid red; */
+    height:81vh;
+    width:99.7%;
+    overflow:'hidden';
+    background-image: url(./cbi1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
