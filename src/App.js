@@ -34,7 +34,7 @@ const App = () => {
         <Route exact path='/login' element={<LogInPage/>}/>
       </Routes> */}
       <Routes>
-        <Route exact path='/whatsapp' element={<WhatsApp/>}/>
+        <Route exact path='/' element={<WhatsApp/>}/>
       </Routes>
     </Router>
   )
